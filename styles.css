@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    }
+.contenedor-principal{ 
+    width: 500px;
+    background-color: white;
+    border: 1px solid red;
+}
+.header{ 
+    display: flex;
+    justify-content: space-between;
+}
+.avatar{ 
+    width: 60px;
+    height: 60px;
+    padding-top: 5px;
+}
+.user-name {
+    margin-top: 0;
+    font-size: 15px;
+    }
+h3{margin: 0;
+padding-top: 10px;}
+.izq { 
+    display: flex;
+}
+.imagen-menu{
+    padding: 20px 10px 10px 10px ;
+    width: 30px;
+    height: 30px;
+}
+.imagen{
+    width: 500px;
+    height: 350px;
+    object-fit: contain;
+}
+.izq-2{
+    display: flex;
+    justify-content: space-between;
+}
+.icons{
+    padding-left: 10px;
+   }
+.save{
+    padding-right: 10px;
+}
+span{
+    font-weight: bold;
+}
+.descripcion{
+    padding: 10px;
+}
+.user-info{
+    font-size: 18px;
+}
+.info-foto{
+    font-size: 25px;}
+.like, .comment, .send, .guardar{
+    width: 35px;
+    height: 35px;
+}
