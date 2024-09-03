@@ -22,13 +22,15 @@ body {
     margin-top: 0;
     font-size: 15px;
     }
-h3{margin: 0;
-padding-top: 10px;}
+.h3-1, .h3-2 {
+     margin: 0;
+   padding-top: 7px; 
+}
 .izq { 
     display: flex;
 }
 .menu{
-    padding: 10px ;
+    padding: 15px 10px 10px 10px ;
     font-size: 30px;
 }
 .imagen{
