@@ -15,7 +15,7 @@ body {
     justify-content: space-between;
 }
 .user-avatar{ 
-    font-size: 50px;
+    font-size: 40px;
     padding: 10px;
 }
 .user-name {
@@ -29,7 +29,7 @@ padding-top: 10px;}
 }
 .menu{
     padding: 10px ;
-    font-size: 40px;
+    font-size: 30px;
 }
 .imagen{
     width: 500px;
